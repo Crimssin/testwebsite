@@ -1,0 +1,17 @@
+h1 {
+  font-size: 44px;
+  color: #33d835;
+}
+
+#alt-baslik {
+  color: blueviolet;
+  text-align: center;
+}
+
+.text-blue {
+  color: blue;
+}
+
+.text-px {
+  text-align: center;
+}
